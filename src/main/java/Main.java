@@ -1,5 +1,3 @@
-package org.todo;
-
 import java.util.Scanner;
 
 public class Main {
