@@ -1,4 +1,4 @@
-package org.example;
+package org.todo;
 
 public class Task {
     private String task;
