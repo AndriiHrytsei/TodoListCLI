@@ -1,5 +1,3 @@
-package org.todo;
-
 public class Task {
     private String task;
     private boolean done;
